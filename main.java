@@ -1,5 +1,7 @@
-package class4;
+import class4.RAM;
+import class4.Storage;
 import class4.computer;
+import class4.process;
 
 public class main{
     void addNumber(int a, int b){
